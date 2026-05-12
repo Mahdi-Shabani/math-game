@@ -1,4 +1,4 @@
-[LINK][https://mahdi-shabani.github.io/math-game/]
+[ریاضی](https://mahdi-shabani.github.io/math-game/)
 # 🏰 Math Quest: سرزمین جادویی اعداد
 
 یک بازی تحت وب فانتزی و آموزشی برای یادگیری ریاضیات (جمع، تفریق، ضرب و تقسیم) مخصوص کودکان.
